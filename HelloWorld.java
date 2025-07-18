@@ -1,5 +1,5 @@
 public class HelloWorld{
    public static void main(String[] args){
-        system.out.println("Hello from Jenkins CI/CD!");
+        System.out.println("Hello from Jenkins CI/CD!");
    }
 }
